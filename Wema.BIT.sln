@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wema.BIT", "Wema.BIT.csproj", "{57D705E7-2532-45ED-BF0F-DD4E80A0AFB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D705E7-2532-45ED-BF0F-DD4E80A0AFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D705E7-2532-45ED-BF0F-DD4E80A0AFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D705E7-2532-45ED-BF0F-DD4E80A0AFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D705E7-2532-45ED-BF0F-DD4E80A0AFB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA17CBF2-EE2C-40DD-80F6-BF7F63C5DB75}
+	EndGlobalSection
+EndGlobal
